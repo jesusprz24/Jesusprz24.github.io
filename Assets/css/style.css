@@ -192,7 +192,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+ /*Made the footer font size smaller so it looks more professional*/
 .footer {
     padding: 7px;
     clear: both;
@@ -202,4 +202,9 @@ p {
 
 .footer h2 {
     font-size: 10px;
+}
+
+/*Added some styling to the p element in the footer*/
+.footer p {
+    font-size: 7px;
 }

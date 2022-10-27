@@ -16,3 +16,14 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+# Refactors I made
+Changed most of the divs so they go in HTML semantic order, such as header, nav, article, etc.
+
+Organzied the format of CSS so that it goes along with the structure of HTML.
+
+
+
+# Refer to the live page
+Jesusprz24@github.io 
+
