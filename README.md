@@ -1,5 +1,9 @@
 # chickenfingers
-Acceptance Criteria 
+
+# Challenge type
+On the job ticket or feature request challenge
+
+# Acceptance Criteria 
 The project is done when it meets all the rules listed below.
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
